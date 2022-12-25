@@ -4,7 +4,7 @@ This database stores information about employees, customers, accounts, loans, an
 
 ### Requirements
 
-- A database management system (such as MySQL, PostgreSQL, or SQL Server)
+- A database management system (SQL Server)
 - The SQL script included in this repository to create the database and tables
 
 ### Installation
