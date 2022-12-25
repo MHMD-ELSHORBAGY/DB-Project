@@ -1,4 +1,5 @@
-create database Bank;
+create database Bank
+go
 
 use Bank;
 
